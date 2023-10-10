@@ -1,0 +1,7 @@
+OOPS JS :-
+
+Learn 'this' like never before
+Constructor functions (create your own Objects)
+Call Apply Bind Methods
+Function Prototype and Bind PolyFill
+Prototypal Inheritance
